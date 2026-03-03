@@ -1,52 +1,50 @@
-# An0myl0u5 Research
+<!-- Organisation profile: An0myl0u5-Research -->
 
-> *An0myl0u5 Research Collective — ARC*  
-> Censorship-resistant. Version-controlled. Collectively maintained.
+# An0myl0u5 Research Collective (ARC)
 
-**An0myl0u5 Research** is the parent organisation.  
-The open research subdivision is the **An0myl0u5 Research Collective (ARC)** —  
-a decentralised, attribution-first research corpus for suppressed, contested,  
-and under-documented knowledge.
+> Open research. Signed contributions. Permanent attribution.
 
----
+We are a decentralised research collective building infrastructure for **annotated, community-verified knowledge**.
 
-## What We Build
-
-| Project | Description |
-|---|---|
-| [An0m5-ARC](https://github.com/An0myl0u5-Research/An0m5-ARC) | The research corpus — version-controlled, claim-labelled, contributor-attributed |
-| ARC Annotation Portal | Web app for non-technical contributors (roadmap) |
-| ARC Graph Explorer | Visualisation of contributor and document nodes (roadmap) |
-| arc-algorithms | Truth Serum, LilSis, Echo Chamber and other analysis tools (roadmap) |
+Every contribution — whether a single word correction or a full research submission — is signed and attributed forever. Like code signing, but for knowledge.
 
 ---
 
-## How Contribution Works
+## Repositories
 
-Every change to a document in ARC — a single corrected word, an eyewitness account,
-a disputed claim, a leaked document — is permanently tied to the contributor's identity
-via GitHub authentication, a UUID annotation event, and an ISO timestamp.
-This is not optional. This is the architecture.
+| Repo | Description |
+|------|-------------|
+| [An0m5-ARC](https://github.com/An0myl0u5-Research/An0m5-ARC) | Core platform — docs, workflows, submissions, taxonomy |
+| [algorithms](https://github.com/An0myl0u5-Research/algorithms) | Deterministic validation algorithms (truth serum, lilsis, echo chamber) |
 
-No degree required. No institution required.
-A GitHub account and something accurate to say.
+## Who can contribute
+
+Anyone. Literally anyone.
+
+- A nurse who spotted an error in a research paper
+- A developer who wants to sign their annotations with cryptographic authority
+- An academic who wants their corrections on record
+- Someone who wants to remain anonymous but still leave a verified trace
+
+**You don’t need to know GitHub.** Our submission portal handles everything.
+
+## How attribution works
+
+Every commit, annotation, and submission in this organisation is:
+1. Timestamped
+2. Linked to a contributor ID
+3. Permanently recorded in the Git history
+4. Optionally GPG-signed for cryptographic proof
+
+Think of it as **academic citation meets code signing**.
+
+## Get involved
+
+- Submit research: [arc.an0myl0u5.org](https://arc.an0myl0u5.org)
+- Read the docs: [an0myl0u5-research.github.io/An0m5-ARC](https://an0myl0u5-research.github.io/An0m5-ARC)
+- Contribute code: [CONTRIBUTING.md](https://github.com/An0myl0u5-Research/An0m5-ARC/blob/main/CONTRIBUTING.md)
+- Contact: contact@an0myl0u5.org
 
 ---
 
-## Licensing
-
-All research and written content: CC BY-NC-SA 4.0
-All tooling and code: MIT Licence
-Organisation identity and brand: Copyright An0myl0u5 Research — All Rights Reserved
-
----
-
-## Contact
-
-Research enquiries: research@anomylous.org
-Sensitive submissions: See SECURITY.md in An0m5-ARC
-Founder: @An0myl0u5-Lite
-
----
-
-The arc is a vessel — built to carry truth through the flood.
+*An0myl0u5 — Anonymous by design. Attributed by choice.*
