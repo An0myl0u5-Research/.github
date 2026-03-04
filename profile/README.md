@@ -6,70 +6,110 @@ The collective uses a single, coherent stack across code, research workflows, an
 
 <table>
   <tr>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=3178C6)]()  
+<a href="#">
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)  
+  
 TypeScript
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/JavaScript-0f172a?style=flat&logo=javascript&logoColor=F7DF1E)]()  
+<a href="#">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+  
 JavaScript
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=3776AB)]()  
+<a href="#">
+  
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)  
+  
 Python
+</a>
 
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/Rust-0f172a?style=flat&logo=rust&logoColor=ffffff)]()  
+<a href="#">
+  
+![Rust](https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=ffffff)  
+  
 Rust
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/Go-0f172a?style=flat&logo=go&logoColor=00ADD8)]()  
+<a href="#">
+  
+![Go](https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)  
+  
 Go
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/Solidity-0f172a?style=flat&logo=solidity&logoColor=FFFFFF)]()  
+<a href="#">
+  
+![Solidity](https://img.shields.io/badge/Solidity-0f172a?style=for-the-badge&logo=solidity&logoColor=FFFFFF)  
+  
 Solidity
+</a>
 
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/Bash/Shell-0f172a?style=flat&logo=gnubash&logoColor=4EAA25)]()  
+<a href="#">
+  
+![Bash / Shell](https://img.shields.io/badge/Bash%20%2F%20Shell-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)  
+  
 Bash / Shell
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/HTML-0f172a?style=flat&logo=html5&logoColor=E34F26)]()  
+<a href="#">
+  
+![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)  
+  
 HTML
+</a>
 
     </td>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/CSS-0f172a?style=flat&logo=css3&logoColor=1572B6)]()  
+<a href="#">
+  
+![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)  
+  
 CSS
+</a>
 
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
 
-[![](https://img.shields.io/badge/RMarkdown-0f172a?style=flat&logo=r&logoColor=276DC3)]()  
+<a href="#">
+  
+![RMarkdown](https://img.shields.io/badge/RMarkdown-0f172a?style=for-the-badge&logo=r&logoColor=276DC3)  
+  
 RMarkdown
+</a>
 
     </td>
     <td></td>
