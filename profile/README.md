@@ -22,13 +22,6 @@ We are a decentralised research collective building infrastructure for **annotat
 
 Every contribution — whether a single word correction or a full research submission — is signed and attributed forever. Like code signing, but for knowledge.
 
-<p align="center">
-  <img width="700" alt="The An0myl0u5 Network — personal blockchains, AI data, transaction data" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
-</p>
-
-<p align="center">
-  <em>Every leaf a chain, every chain a life — personal blockchains for identity, AI data, and transactions, rooted in the same network.</em>
-</p>
 
 ---
 
@@ -73,6 +66,17 @@ Think of it as **academic citation meets code signing**.
 - Read the docs: [an0myl0u5-research.github.io/An0m5-ARC](https://an0myl0u5-research.github.io/An0m5-ARC)
 - Contribute code: [CONTRIBUTING.md](https://github.com/An0myl0u5-Research/An0m5-ARC/blob/main/CONTRIBUTING.md)
 - Contact: [contact@an0myl0u5.org](mailto:contact@an0myl0u5.org)
+
+---
+
+<p align="center">
+  <img width="700" alt="The An0myl0u5 Network — personal blockchains, AI data, transaction data" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
+</p>
+
+<p align="center">
+  <em>Every leaf a chain, every chain a life — personal blockchains for identity, AI data, and transactions, rooted in the same network.</em>
+</p>
+
 
 ---
 
