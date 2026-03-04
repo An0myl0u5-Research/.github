@@ -110,7 +110,6 @@ Think of it as **academic citation meets code signing**.
 </p>
 
 ---
-
 ## Get involved
 
 - Submit research: [an0myl0u5-research.github.io/An0m5-ARC](https://github.com/An0myl0u5-Research)
