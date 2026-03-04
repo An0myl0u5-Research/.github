@@ -97,16 +97,19 @@ Think of it as **academic citation meets code signing**.
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/An0myl0u5-Lite">
-    <img src="https://img.shields.io/badge/Profile-An0myl0u5--Lite-8957E5?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/An0myl0u5-Research">
-    <img src="https://img.shields.io/badge/Organisation-An0myl0u5--Research-0f3460?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=8957E5&icon_color=8957E5&title_color=8957E5&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=8957E5&title_color=8957E5&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=An0myl0u5-Lite&theme=github-dark-blue&background=0d1117&border=8957E5&ring=8957E5&fire=8957E5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=An0myl0u5-Lite&bg_color=0d1117&line=8957E5&point=c9d1d9&area=true&area_color=8957E5&hide_border=true" />
 </p>
 
 ---
-
 ## Get involved
 
 - Submit research: [an0myl0u5-research.github.io/An0m5-ARC](https://github.com/An0myl0u5-Research)
