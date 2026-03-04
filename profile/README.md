@@ -69,7 +69,7 @@ Think of it as **academic citation meets code signing**.
 
 ## Get involved
 
-- Submit research: [arc.an0myl0u5.org](https://arc.an0myl0u5.org/)
+- Submit research: 
 - Read the docs: [an0myl0u5-research.github.io/An0m5-ARC](https://an0myl0u5-research.github.io/An0m5-ARC)
 - Contribute code: [CONTRIBUTING.md](https://github.com/An0myl0u5-Research/An0m5-ARC/blob/main/CONTRIBUTING.md)
 - Contact: [contact@an0myl0u5.org](mailto:contact@an0myl0u5.org)
