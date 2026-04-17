@@ -119,9 +119,6 @@ Think of it as **academic citation meets code signing**.
 
 ---
 
-<p align="center">
-  <em>Every leaf a chain, every chain a life — personal blockchains for identity, AI data, and transactions, rooted in the same network.</em>
-</p>
 
 ---
 
