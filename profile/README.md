@@ -10,6 +10,42 @@
   </a>
 </p>
 
+## An0myl0u5 Research
+
+The research organisation connected with **An0myl0u5 Research and Development**, bringing together work across human rights, law, social mobility and technology.
+
+Our shared purpose is inclusion and equality: widening access to knowledge, services and opportunity, with privacy and accountability. That includes enabling people to contribute knowledge, retain attribution, control their data and challenge decisions that affect their lives.
+
+---
+
+## Governance, rights and shared infrastructure
+
+### An0myl0u5 Network / Ωm3gA
+
+A large-scale design for user-controlled digital infrastructure connecting governance, identity, personal data, shared computing and economic participation. Its purpose includes widening opportunity and resisting concentrations of power, with equal public voting rights independent of economic influence.
+
+Through **P2PV — push-to-public-vote**, proposals developed within industrial, regulatory or specialist communities can reach public authorisation when they create public obligations. Privacy, verification after counting and accountable governance support decisions that remain answerable to the people affected.
+
+### Trust, licensing and governance — including sAIfe
+
+A framework connecting trust stewardship, end-user agreements and contributor rules, with each serving a distinct role.
+
+**OSCC — Open Source Closed Contribution** pairs publicly auditable source with vetted contribution to core infrastructure. **CSCC — Closed Source Certified Contribution** provides controlled access to security-sensitive source for certified inspection and contribution.
+
+**sAIfe — AI For Everyone** connects this work with human agency, consent, transparency and independent accountability.
+
+---
+
+## Research, evidence and connected tools
+
+### An0m5-ARC
+
+An open, decentralised research and publishing platform built around perpetual peer review, permanent attribution and contributions of any size. Firsthand knowledge, professional practice and formal research can be examined together, preserving sources, disagreements and authorship as work evolves.
+
+Its purpose includes distributed preservation and connections with established publishing and archiving services, so research can grow without earlier contributions or their authors’ credit disappearing.
+
+#### ARC research principles
+
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Open-8957E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Contributions-Signed-0f3460?style=for-the-badge"/>
@@ -19,48 +55,47 @@
   <img src="https://img.shields.io/badge/Provenance-GPG%20Signed-16213e?style=for-the-badge"/>
 </p>
 
----
+GPG signing is optional.
 
-We are a decentralised research collective building infrastructure for **annotated, community-verified knowledge**.
+### LexiVibe
 
-Every contribution — whether a single word correction or a full research submission — is signed and attributed forever. Like code signing, but for knowledge.
+A modular research and tooling runtime supporting **one-to-many, many-to-one and any-to-any** connections across tools, sources and disciplines. It enables different forms of research and analysis to be brought together, with language and symbols among its possible applications.
 
-> An0m5-ARC — the **An0myl0u5 Research Collective** — is the open research layer of the wider An0myl0u5 network (personal blockchains, AI data, and transaction histories), maintained independently of the private An0myl0u5-Research venture.
+LexiVibe has its own identity alongside ARC, connecting research capabilities across disciplinary boundaries.
 
----
+### Truth Serum Suite
 
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [An0m5-ARC](https://github.com/An0myl0u5-Research) | Core platform — docs, workflows, submissions, taxonomy |
-| [algorithms](https://github.com/An0myl0u5-Research/.github) | Deterministic validation and verification algorithms |
+A source and evidence analysis suite for examining claims, their origins, bias and conflicts of interest. Its purpose includes distinguishing independent corroboration from repeated or coordinated narratives, helping researchers scrutinise echo chambers and apparent consensus while keeping conclusions open to challenge.
 
 ---
 
-## Who can contribute
+## Security and code intelligence
 
-Anyone. Literally anyone.
+### An0matr1X
 
-- A nurse who spotted an error in a research paper
-- A developer who wants to sign their annotations with cryptographic authority
-- An academic who wants their corrections on record
-- Someone who wants to remain anonymous but still leave a verified trace
+A **GitHub code and contributor intelligence platform** examining engineering activity, contributor history, follower and fork relationships, code complexity against utility, repository health and security exposure.
 
-**You don't need to know GitHub.** Our submission portal handles everything.
+Its purpose includes identifying contributor manipulation and repository squatting, with README cards and a wider investigation workspace presenting evidence in context.
+
+### Foundational security research — Places Nobody Thought to Look
+
+Research aimed at making the digital infrastructure people, services and organisations depend on safer and more resilient. Its purpose is to reduce harm and support lasting security improvements, including the support maintainers need to sustain them.
 
 ---
 
-## How attribution works
+## Access, livelihoods and local knowledge
 
-Every commit, annotation, and submission in this organisation is:
+### NHS Dental Booking System
 
-1. Timestamped
-2. Linked to a contributor ID (GitHub, ORCID, DID, or local ARC ID)
-3. Permanently recorded in the Git history
-4. Optionally GPG-signed for cryptographic proof
+A dental access and booking system whose waiting-list and geographic matching logic considers clinical urgency, accessibility needs and patients’ personal constraints, including travel limits.
 
-Think of it as **academic citation meets code signing**.
+### HolidaySmile
+
+A calendar-led **custom** travel package builder combining itinerary planning with recommendation and pricing algorithms and availability checks. It foregrounds local culture, independent experiences and distinctive destinations.
+
+Its wider purpose includes giving residents and local practitioners a voice in their communities’ history, economy and ecology, with credited contributions that can be compared with published research and official records.
+
+[contact@holidaysmile.org](mailto:contact@holidaysmile.org)
 
 ---
 
@@ -110,15 +145,14 @@ Think of it as **academic citation meets code signing**.
 </p>
 
 ---
+
 ## Get involved
 
-- Submit research: [an0myl0u5-research.github.io/An0m5-ARC](https://github.com/An0myl0u5-Research)
-- Read the docs: [an0myl0u5-research.github.io/An0m5-ARC](https://github.com/An0myl0u5-Research)
-- Contribute code: [`CONTRIBUTING.md`](https://github.com/An0myl0u5-Research/.github)
-- Contact: [contact@an0myl0u5.org](mailto:contact@an0myl0u5.org)
+Research participation centres on sharing knowledge, evidence and review with attribution. OSCC and CSCC describe distinct approaches to controlled contribution to core software.
 
----
+**Research enquiries and collaboration:** [Research@An0myl0u5.org](mailto:Research@An0myl0u5.org)
 
+**Founder:** [An0myl0u5](https://github.com/An0myl0u5-Lite) · [ORCID](https://orcid.org/0009-0001-8919-4846)
 
 ---
 
