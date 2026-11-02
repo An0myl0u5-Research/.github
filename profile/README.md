@@ -12,7 +12,7 @@
 
 ## An0myl0u5 Research
 
-The research organisation connected with **An0myl0u5 Research and Development**, bringing together work across human rights, law, social mobility and technology.
+The research organisation connected with **An0myl0u5 Research and Development Ltd**, bringing together work across human rights, law, social mobility and technology.
 
 Our shared purpose is inclusion and equality: widening access to knowledge, services and opportunity, with privacy and accountability. That includes enabling people to contribute knowledge, retain attribution, control their data and challenge decisions that affect their lives.
 
@@ -152,7 +152,18 @@ Research participation centres on sharing knowledge, evidence and review with at
 
 **Research enquiries and collaboration:** [Research@An0myl0u5.org](mailto:Research@An0myl0u5.org)
 
-**Founder:** [An0myl0u5](https://github.com/An0myl0u5-Lite) · [ORCID](https://orcid.org/0009-0001-8919-4846)
+**Founder:** [An0myl0u5](https://github.com/An0myl0u5-Lite) · [ORCID iD](https://orcid.org/0009-0001-8919-4846)
+
+## Company information
+
+**An0myl0u5 Research and Development Ltd**<br>
+Registered in England and Wales · Company number **17555705**
+
+**Registered office**<br>
+Ground Floor, 108-112 Main Road<br>
+Sundridge<br>
+Sevenoaks<br>
+TN14 6ES
 
 ---
 
